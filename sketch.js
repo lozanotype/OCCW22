@@ -140,9 +140,9 @@ function draw() {
   let movey=150;
   
   if(windowHeight > windowWidth) {
-        cval = 40;
-      letwidth =200;
-     movex=195; 
+        cval = 115;
+      letwidth =480;
+     movex=355; 
       movey=-30;
     } else {
         cval = 190;
