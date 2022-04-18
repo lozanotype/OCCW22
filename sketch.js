@@ -142,8 +142,8 @@ function draw() {
   if(windowHeight > windowWidth) {
         cval = 135;
       letwidth =570;
-     movex=435; 
-      movey=-20;
+     movex=440; 
+      movey=-35;
     } else {
         cval = 190;
        letwidth =800;
